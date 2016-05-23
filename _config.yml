@@ -1,0 +1,28 @@
+name: slackwalker
+favicon: null
+layout_spectrum: 0.4639930366538465
+typography_spectrum: 0.9422068248968571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9883622317574918
+  lightness: 0.3457320600282401
+  saturation: 0.5743861515074968
+  rhythmicContrast: 0.010344577487558126
+purpose: []
